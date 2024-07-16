@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
