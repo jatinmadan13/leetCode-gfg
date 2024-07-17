@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
