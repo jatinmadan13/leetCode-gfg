@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -48,4 +49,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
