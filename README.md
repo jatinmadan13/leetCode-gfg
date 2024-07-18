@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
