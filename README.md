@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0027-remove-element](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
