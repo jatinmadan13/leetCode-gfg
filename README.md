@@ -40,6 +40,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0125-valid-palindrome](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
