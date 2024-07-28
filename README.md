@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0033-search-in-rotated-sorted-array) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
