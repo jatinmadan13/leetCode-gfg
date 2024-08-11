@@ -82,4 +82,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
