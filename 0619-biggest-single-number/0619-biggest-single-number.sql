@@ -1,8 +1,7 @@
 # Write your MySQL query statement below
-SELECT MAX(num) as num 
-from (
+Select MAX(num) AS num from(
     SELECT num 
-    from MyNumbers 
-    GROUP BY num 
-    HAVING COUNT(num)=1 )
- AS unique_numbers;
+    FROM Mynumbers
+    GROUP by num
+    HAVING  count(num)=1)
+    as unique_numbers;
