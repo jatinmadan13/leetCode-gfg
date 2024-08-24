@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0485-max-consecutive-ones) |
+| [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -24,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -107,5 +110,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
