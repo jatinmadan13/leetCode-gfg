@@ -106,6 +106,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0619-biggest-single-number) |
