@@ -116,6 +116,7 @@
 | [1292-immediate-food-delivery-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1292-immediate-food-delivery-ii) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1625-group-sold-products-by-the-date) |
+| [1664-find-users-with-valid-e-mails](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1877-find-followers-count) |
