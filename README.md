@@ -114,6 +114,7 @@
 | [1155-product-sales-analysis-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1155-product-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1292-immediate-food-delivery-ii) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1811-fix-names-in-a-table) |
