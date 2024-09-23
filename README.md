@@ -104,6 +104,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0570-managers-with-at-least-5-direct-reports) |
