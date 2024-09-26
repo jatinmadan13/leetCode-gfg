@@ -13,6 +13,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
