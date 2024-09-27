@@ -36,7 +36,7 @@ public:
         }
         if(n%2==1){
             return el2; 
-        }
-        return (double)((double)(el1+el2))/2.0;
+        }else 
+        return ((double)(el1+el2)/2.0);
     }
 };
