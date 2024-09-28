@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
@@ -137,4 +139,8 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1046-max-consecutive-ones-iii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
