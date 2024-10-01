@@ -65,6 +65,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
+| [1078-remove-outermost-parentheses](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
