@@ -52,6 +52,7 @@
 | [0007-reverse-integer](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0009-palindrome-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
 ## Database
 |  |
 | ------- |
