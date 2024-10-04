@@ -64,6 +64,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
 ## Sorting
@@ -174,4 +176,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
