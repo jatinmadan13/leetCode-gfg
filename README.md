@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
