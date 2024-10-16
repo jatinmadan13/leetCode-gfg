@@ -81,6 +81,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1078-remove-outermost-parentheses) |
+| [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
@@ -155,6 +156,7 @@
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -238,5 +240,6 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
