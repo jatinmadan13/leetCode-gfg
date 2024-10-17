@@ -61,6 +61,7 @@
 | [0002-add-two-numbers](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0009-palindrome-number) |
+| [0670-maximum-swap](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0670-maximum-swap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -155,6 +156,7 @@
 | [0011-container-with-most-water](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
