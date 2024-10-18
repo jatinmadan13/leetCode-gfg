@@ -35,6 +35,7 @@
 | [1646-kth-missing-positive-number](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
@@ -213,6 +214,7 @@
 | [0039-combination-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0131-palindrome-partitioning) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -244,4 +246,12 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
