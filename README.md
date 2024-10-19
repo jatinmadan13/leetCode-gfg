@@ -71,6 +71,7 @@
 | [0002-add-two-numbers](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0206-reverse-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
