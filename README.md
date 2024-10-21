@@ -49,6 +49,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1894-merge-strings-alternately](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
@@ -219,6 +221,7 @@
 | [0039-combination-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0131-palindrome-partitioning) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
