@@ -29,6 +29,7 @@
 | [1002-maximum-width-ramp](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -89,6 +90,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1894-merge-strings-alternately](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1894-merge-strings-alternately) |
@@ -255,6 +257,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Monotonic Stack
 |  |
@@ -278,4 +281,8 @@
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
