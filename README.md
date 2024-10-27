@@ -31,6 +31,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1646-kth-missing-positive-number) |
@@ -154,6 +155,7 @@
 | [0131-palindrome-partitioning](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
