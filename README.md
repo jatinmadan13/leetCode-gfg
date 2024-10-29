@@ -40,6 +40,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -296,4 +298,5 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
