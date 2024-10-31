@@ -40,6 +40,7 @@
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
@@ -160,6 +161,7 @@
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sorting
 |  |
@@ -168,6 +170,7 @@
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2554-minimum-total-distance-traveled](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
 |  |
