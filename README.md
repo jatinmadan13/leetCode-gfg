@@ -91,6 +91,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0424-longest-repeating-character-replacement) |
+| [0812-rotate-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1197-parsing-a-boolean-expression) |
@@ -308,4 +309,8 @@
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
