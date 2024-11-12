@@ -39,6 +39,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2554-minimum-total-distance-traveled) |
@@ -132,6 +133,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0088-merge-sorted-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0217-contains-duplicate) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3291-find-if-array-can-be-sorted) |
