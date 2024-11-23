@@ -38,6 +38,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1972-rotating-the-box) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -152,6 +153,7 @@
 | [0392-is-subsequence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1972-rotating-the-box) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
 |  |
