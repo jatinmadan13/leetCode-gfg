@@ -47,6 +47,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3291-find-if-array-can-be-sorted) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,4 +332,8 @@
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
