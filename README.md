@@ -288,6 +288,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2201-valid-arrangement-of-pairs](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Monotonic Stack
@@ -335,5 +336,10 @@
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2201-valid-arrangement-of-pairs) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
