@@ -116,6 +116,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3195-separate-black-and-white-balls) |
@@ -166,6 +167,7 @@
 | [1972-rotating-the-box](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
