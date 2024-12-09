@@ -49,6 +49,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3291-find-if-array-can-be-sorted) |
+| [3427-special-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
+| [3427-special-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0410-split-array-largest-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1046-max-consecutive-ones-iii) |
+| [3427-special-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3427-special-array-ii) |
 ## Union Find
 |  |
 | ------- |
