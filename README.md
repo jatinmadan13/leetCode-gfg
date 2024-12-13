@@ -47,6 +47,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3427-special-array-ii) |
@@ -66,6 +67,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jatinmadan13/leetCode-gfg/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -319,6 +322,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jatinmadan13/leetCode-gfg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -334,6 +338,7 @@
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jatinmadan13/leetCode-gfg/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Trie
 |  |
 | ------- |
